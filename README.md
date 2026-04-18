@@ -68,7 +68,7 @@ Designed an interactive Power BI dashboard to uncover insurance claim trends, an
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot]([PASTE_IMAGE_LINK_HERE](https://github.com/sharma-manav-ms/Insurance-Risk-and-Claim-Analysis-Dashboard-using-PowerBI/blob/main/Dashboard%20Screenshot.png))
+![Dashboard Screenshot](https://github.com/sharma-manav-ms/Insurance-Risk-and-Claim-Analysis-Dashboard-using-PowerBI/blob/main/Dashboard%20Screenshot.png))
 
 ---
 
